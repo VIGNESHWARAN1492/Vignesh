@@ -8,7 +8,7 @@
     },
     "rgName": {
       "type": "string",
-      "defaultValue": "RG02"
+      "defaultValue": "RG01"
     }
   },
   "variables": {},
